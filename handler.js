@@ -62,7 +62,7 @@ function pageHtml() {
         <p>Thank you to the thousands of people who donated, volunteered, petitioned, and joined this movement.</p>
         <p>This campaign was always bigger than me or any one person. It was part of a larger fight for environmental sustainability, accountable government, and leadership that treats the housing crisis with the urgency our communities deserve. It was an honor to be able to run with your support.</p>
         <p>Due to the Supreme Court's decision to throw out the district I was running in, overturning the will of the people and the millions of Virginians who voted for the new maps, I am suspending my campaign indefinitely. I will not pursue any office this year.</p>
-        <p>The Schiarizzi for Congress campaign is returning all of its remaining funding to donors. As other candidates use campaign funds to advance themselves, remember this for the future: our campaign raised nearly a million dollars in just a few weeks, and I am returning as much as possible.</p>
+        <p>The Schiarizzi for Congress campaign is returning all of its remaining funding to donors.</p>
         <p>Thank you. I will never stop organizing, pushing for more affordable housing across Virginia, and working towards a future we can be proud of.</p>
         <p class="signature">Joe Schiarizzi</p>
 
